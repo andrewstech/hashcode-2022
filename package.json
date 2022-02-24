@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/andrewstech/hashcode.git"
   },
+  "engines": {
+    "npm": ">=8.4.1",
+    "node": ">=17.5.0"
+  },
   "keywords": [
     "hashcode"
   ],
@@ -19,4 +23,5 @@
     "url": "https://github.com/andrewstech/hashcode/issues"
   },
   "homepage": "https://github.com/andrewstech/hashcode#readme"
+  
 }
