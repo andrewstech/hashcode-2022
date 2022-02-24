@@ -1,0 +1,22 @@
+{
+  "name": "hashcode",
+  "version": "1.0.0",
+  "description": "BatemaDevelopment team hashcode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewstech/hashcode.git"
+  },
+  "keywords": [
+    "hashcode"
+  ],
+  "author": "andrewstech, Lukas-Batema",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewstech/hashcode/issues"
+  },
+  "homepage": "https://github.com/andrewstech/hashcode#readme"
+}
